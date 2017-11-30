@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://kingdomland.com.vn' target='_blank'><img src='https://3.bp.blogspot.com/-IlOxosbyxWk/WhlOcNmtBvI/AAAAAAAACc8/KUZG6-DW878PLHrlS3hR2rpY2dNvEAycgCLcBGAs/s1600/t%25E1%25BA%25A3i%2Bxu%25E1%25BB%2591ng.jpg' width='500px'/><br/> Nhà ở xã hội tại Gò Vấp</a>. LH PKD 0911016444. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://kingdomland.com.vn' target='_blank'><img src='https://www.blogger.com/blogger.g?blogID=658182999877313200#editor/target=post;postID=4178433709443158423 width='500px'/><br/> Nhà ở xã hội tại Gò Vấp</a>. LH PKD 0911016444. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
