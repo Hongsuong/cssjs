@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://kingdomland.com.vn' target='_blank'><img src='https://3.bp.blogspot.com/-YpcUs4mSblU/Wh9nl2EEK0I/AAAAAAAACfQ/HaLpkt3_2SsFG8_vUkYaCzLTyHk43a4OQCLcBGAs/s400/1.%2Bconghoa-garden.png width='500px'/><br/> Khu phức hợp căn hộ cao cấp Cộng Hòa Garden</a>. LH PKD 0911016444. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://kingdomland.com.vn' target='_blank'><img src='https://3.bp.blogspot.com/-YpcUs4mSblU/Wh9nl2EEK0I/AAAAAAAACfQ/HaLpkt3_2SsFG8_vUkYaCzLTyHk43a4OQCLcBGAs/s400/1.%2Bconghoa-garden.png' width='500px'/><br/> Nhà ở xã hội tại Gò Vấp</a>. LH PKD 0911016444. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
